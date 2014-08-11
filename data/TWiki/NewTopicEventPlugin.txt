@@ -1,4 +1,4 @@
-%META:TOPICINFO{author="WikiGuest" date="1132541454" format="1.1" version="$Rev$"}%
+%META:TOPICINFO{author="ProjectContributor" date="1407719259" format="1.1" version="1"}%
 ---+ NewTopicEvent TWiki Plugin
 
 ---++ Syntax Rules
